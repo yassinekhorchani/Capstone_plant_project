@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026646162220",
+    "project_id": "deepsea-plant-doctor",
+    "storage_bucket": "deepsea-plant-doctor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026646162220:android:6483ece8d17328704e4a89",
+        "android_client_info": {
+          "package_name": "com.example.capstone_deepsea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwXLuvk-lBE2tfqW0BPUhUP48lJWKX84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
